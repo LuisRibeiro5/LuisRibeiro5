@@ -3,7 +3,7 @@
   <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, eu sou Luis Gustavo de Souza Ribeiro </h1>
 </div>
 
-🌱 Atualmene aprendendo JavaScript, HTML, CSS e C++.
+🌱 Atualmente aprendendo JavaScript, HTML, CSS e C++.
 ##
 <a href="https://github.com/LuisRibeiro5/github-readme-stats">
   <img height=176 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisRibeiro5&show_icons=true&theme=tokyonight" />
@@ -17,3 +17,4 @@
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg">
