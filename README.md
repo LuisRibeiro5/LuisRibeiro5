@@ -3,7 +3,7 @@
   <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, eu sou Luis Gustavo de Souza Ribeiro </h1>
 </div>
 
-🌱 Atualmente aprendendo JavaScript, HTML, CSS e C++.
+🌱 Atualmente aprendendo C++, Java e Python.
 
 ##
 
